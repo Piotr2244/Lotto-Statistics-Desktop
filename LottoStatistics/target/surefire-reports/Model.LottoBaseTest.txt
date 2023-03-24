@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: Model.LottoBaseTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.163 sec <<< FAILURE! - in Model.LottoBaseTest
+testDoNewRandomWinningSetsProcedure{int, int[]}[1]  Time elapsed: 0.037 sec  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: Error aggregating arguments for parameter at index 1: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+Caused by: java.lang.ClassCastException: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+
+testDoNewRandomWinningSetsProcedure{int, int[]}[2]  Time elapsed: 0.002 sec  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: Error aggregating arguments for parameter at index 1: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+Caused by: java.lang.ClassCastException: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+
+testDoNewRandomWinningSetsProcedure{int, int[]}[3]  Time elapsed: 0.003 sec  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: Error aggregating arguments for parameter at index 1: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+Caused by: java.lang.ClassCastException: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+
+testDoNewRandomWinningSetsProcedure{int, int[]}[4]  Time elapsed: 0.003 sec  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: Error aggregating arguments for parameter at index 1: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+Caused by: java.lang.ClassCastException: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+
+testDoNewRandomWinningSetsProcedure{int, int[]}[5]  Time elapsed: 0.002 sec  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: Error aggregating arguments for parameter at index 1: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+Caused by: java.lang.ClassCastException: class [I cannot be cast to class [Ljava.lang.Object; ([I and [Ljava.lang.Object; are in module java.base of loader 'bootstrap')
+
